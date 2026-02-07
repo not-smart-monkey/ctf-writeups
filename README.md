@@ -3,21 +3,20 @@
 ![GitHub](https://img.shields.io/badge/CTF-Writeups-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-> My collection of CTF challenge solutions from various cybersecurity platforms.
-
 ## 📋 Writeups Index
 
 | Challenge | Platform | Difficulty | Category | Description |
 |-----------|----------|------------|----------|-------------|
 | [Corridor](TryHackMe/easy/corridor/) | TryHackMe | 🟢 Easy | 🌐 Web | IDOR challenge with MD5 hash analysis |
+| [The Game](TryHackMe/easy/the_game/) | TryHackMe | 🟢 Easy | 🔧 Reverse Engineering | Simple Reverse Engineering task |
 
 ## 📊 Statistics
 
 ```text
-Total Writeups: 1
+Total Writeups: 2
 
 By Difficulty:
-🟢 Easy: 1
+🟢 Easy: 2
 🟡 Medium: 0
 🔴 Hard: 0
 ⚫ Insane: 0
@@ -26,7 +25,7 @@ By Category:
 🌐 Web: 1
 🔐 Cryptography: 0
 💥 Binary Exploitation: 0
-🔧 Reverse Engineering: 0
+🔧 Reverse Engineering: 1
 🔍 Forensics: 0
 🎪 Miscellaneous: 0
 ```
@@ -40,4 +39,4 @@ By Category:
 | 💥 Binary Exploitation | Binary exploitation | Buffer overflow, ROP |
 | 🔧 Reverse Engineering | Reverse engineering | Disassembly, Packers |
 | 🔍 Forensics | Digital forensics | PCAP, Memory dumps |
-| 🎪 Miscellaneous | Miscellaneous | Logic puzzles, Stego |
+| 🎪 Miscellaneous | Miscellaneous | Logic puzzles, Steganography |

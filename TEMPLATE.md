@@ -30,4 +30,4 @@
 
 ---
 
-## 🛡️ Security Recomendation
+## 🛡️ Security Recomendations
