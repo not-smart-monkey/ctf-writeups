@@ -5,11 +5,11 @@
 
 ## 📋 Writeups Index
 
-| Challenge | Platform | Difficulty | Category | Description |
-|-----------|----------|------------|----------|-------------|
-| [Corridor](TryHackMe/easy/corridor/) | THM | 🟢 Easy | 🌐 Web & Network | IDOR challenge with MD5 hash analysis |
-| [The Game](TryHackMe/easy/the_game/) | THM | 🟢 Easy | 🔧 Reverse Engineering | Simple Reverse Engineering task |
-| [Net Sec Challenge](TryHackMe/medium/net_sec_challenge/) | THM | 🟡 Medium | 🌐 Web & Network | Network scanning, brute-force attack, and IDS evasion with `nmap`, `hydra` |
+| Challenge | Platform | Difficulty | Category |
+|-----------|----------|------------|----------|
+| [Corridor](THM/easy/corridor/) | THM | 🟢 Easy | 🌐 Web & Network |
+| [The Game](THM/easy/the_game/) | THM | 🟢 Easy | 🔧 Reverse Engineering |
+| [Net Sec Challenge](THM/medium/net_sec_challenge/) | THM | 🟡 Medium | 🌐 Web & Network | 
 
 ## 📊 Statistics
 
