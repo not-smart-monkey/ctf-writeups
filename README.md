@@ -7,36 +7,26 @@
 
 | Challenge | Platform | Difficulty | Category | Description |
 |-----------|----------|------------|----------|-------------|
-| [Corridor](TryHackMe/easy/corridor/) | TryHackMe | 🟢 Easy | 🌐 Web | IDOR challenge with MD5 hash analysis |
+| [Corridor](TryHackMe/easy/corridor/) | TryHackMe | 🟢 Easy | 🌐 Web & Network | IDOR challenge with MD5 hash analysis |
 | [The Game](TryHackMe/easy/the_game/) | TryHackMe | 🟢 Easy | 🔧 Reverse Engineering | Simple Reverse Engineering task |
+| [Net Sec Challenge](TryHackMe/medium/net_sec_challenge/) | TryHackMe | 🟡 Medium | 🌐 Web & Network | Network scanning, brute-force attack, and IDS evasion with `nmap`, `hydra` |
 
 ## 📊 Statistics
 
 ```text
-Total Writeups: 2
+Total Writeups: 3 
 
 By Difficulty:
 🟢 Easy: 2
-🟡 Medium: 0
+🟡 Medium: 1
 🔴 Hard: 0
 ⚫ Insane: 0
 
 By Category:
-🌐 Web: 1
+🌐 Web & Network: 2
 🔐 Cryptography: 0
 💥 Binary Exploitation: 0
 🔧 Reverse Engineering: 1
 🔍 Forensics: 0
 🎪 Miscellaneous: 0
 ```
-
-## 🏷️ CTF Categories
-
-| Category | Description | Common Topics |
-|----------|-------------|---------------|
-| 🌐 Web | Web application security | SQLi, XSS, IDOR, SSRF |
-| 🔐 Cryptography | Cryptography challenges | RSA, AES, XOR, Hashes |
-| 💥 Binary Exploitation | Binary exploitation | Buffer overflow, ROP |
-| 🔧 Reverse Engineering | Reverse engineering | Disassembly, Packers |
-| 🔍 Forensics | Digital forensics | PCAP, Memory dumps |
-| 🎪 Miscellaneous | Miscellaneous | Logic puzzles, Steganography |

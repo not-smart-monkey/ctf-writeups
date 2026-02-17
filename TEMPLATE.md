@@ -4,7 +4,7 @@
 - **Platform**: [TryHackMe / HackTheBox / picoCTF / etc](https://LINK_TO_PLATFORM)
 - **[Room / Event / Machine]**: [NAME](https://LINK_TO_ROOM) 
 - **Difficulty**: [🟢 Easy / 🟡 Medium / 🔴 Hard / ⚫ Insane]
-- **Category**: [🌐 Web / 🔐 Cryptography / 💥 Binary Exploitation / 🔧 Reverse Engineering / 🔍 Forensics / 🎪 Miscellaneous]
+- **Category**: [🌐 Web & Network/ 🔐 Cryptography / 💥 Binary Exploitation / 🔧 Reverse Engineering / 🔍 Forensics / 🎪 Miscellaneous]
 - **Tags**: `tag1`, `tag2`, `tag3`, `any tags describing the challenge`
 
 ### Challenge Description

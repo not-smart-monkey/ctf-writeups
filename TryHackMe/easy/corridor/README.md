@@ -4,7 +4,7 @@
 - **Platform**: [TryHackMe](https://tryhackme.com)
 - **Room**: [Corridor](https://tryhackme.com/room/corridor) 
 - **Difficulty**: 🟢 Easy
-- **Category**: 🌐 Web
+- **Category**: 🌐 Web & Network
 - **Tags**: `web`, `IDOR`, `hash-cracking`, `md5`
 
 ### Challenge Description
